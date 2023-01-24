@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093344559249",
+    "project_id": "flutter-bitirme-projesi-71db3",
+    "storage_bucket": "flutter-bitirme-projesi-71db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093344559249:android:68b456a587b297a24bff30",
+        "android_client_info": {
+          "package_name": "com.example.bitirme_projesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093344559249-4n468cmp5d3pqj22pe406v7t7s79u49j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZxO8-a6CTmX0SbMKA9fJaz18pWSuwdhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093344559249-4n468cmp5d3pqj22pe406v7t7s79u49j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
